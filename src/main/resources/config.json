@@ -1,0 +1,8 @@
+{
+  "liczbaOsob": 30,
+  "baseny": {
+    "BasenOlimpijski": 5,
+    "BasenRekreacyjny": 4,
+    "Brodzik": 3
+  }
+}
