@@ -7,5 +7,5 @@ The interface dynamically shows:
 - 🥇 Priority handling for VIP clients  
 - 🚦 Status of the center (open/closed)  
 
-This project demonstrates **multithreading**, **concurrency control** (`synchronized`, `wait/notify`), and **live GUI updates** using Java Swing.
+This project demonstrates **multithreading**, **concurrency control** (synchronized, wait/notify), and **live GUI updates** using Java Swing.
 
