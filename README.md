@@ -1,0 +1,1 @@
+A multithreaded Java Swing simulation of a swimming center where clients queue at a cashier and are directed to appropriate pools based on age, VIP status, and special conditions (e.g. with guardian or diapers). This project demonstrates multithreading, concurrency control (synchronized, wait/notify), and live GUI updates using Java Swing.
