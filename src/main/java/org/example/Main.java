@@ -9,7 +9,7 @@ class GeneratorOsob {
 
     public static Osoba generujOsobe(int nr) {
         int wiek = 1+rand.nextInt(69);
-        boolean vip = rand.nextDouble() < 0.1;
+        boolean vip = rand.nextDouble() < 0.3;
         boolean opiekun = wiek < 10;
         boolean pampers = wiek <= 3;
         return new Osoba(wiek, vip, nr, opiekun, pampers);
