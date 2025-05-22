@@ -2,10 +2,10 @@ A **multithreaded Java Swing simulation** of a swimming center where clients que
 
 The interface dynamically shows:
 
-- 🧾 The queue of clients waiting at the cashier  
-- 🏊 Real-time pool assignments (Olympic, Recreational, or Toddler pool)  
-- 🥇 Priority handling for VIP clients  
-- 🚦 Status of the center (open/closed)  
+-  The queue of clients waiting at the cashier  
+-  Real-time pool assignments (Olympic, Recreational, or Toddler pool)  
+-  Priority handling for VIP clients  
+-  Status of the center (open/closed)  
 
 This project demonstrates **multithreading**, **concurrency control** (synchronized, wait/notify), and **live GUI updates** using Java Swing.
 
